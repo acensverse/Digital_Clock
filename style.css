@@ -1,0 +1,30 @@
+body {
+  background-color: darkslategrey;
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+#clock {
+text-align: center;
+color:rgb(129, 0, 26);
+border: none;
+height: 50px;
+width: auto;
+font-size: xx-large;
+font-weight: bold;
+border-radius: 10px;
+border-color: indigo;
+border-style: solid;
+width:25%;
+background-color: orange;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
